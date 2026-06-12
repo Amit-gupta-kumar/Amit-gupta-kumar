@@ -33,9 +33,9 @@ SELECT * FROM developer WHERE name = 'Amit Kumar Gupta';
 
 ## 🛠️ Tech Stack & Skills
 
-<img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ffe72f5-f52b-45e4-b6a4-10d10a0f61cd/dbqhrey-670bf4fb-2f02-4688-bff3-094714b20d63.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85ZmZlNzJmNS1mNTJiLTQ1ZTQtYjZhNC0xMGQxMGEwZjYxY2QvZGJxaHJleS02NzBiZjRmYi0yZjAyLTQ2ODgtYmZmMy0wOTQ3MTRiMjBkNjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2G-arG8XZGXPGK8sqVD1XOtR5lzvRayyWzPLYsFHJZE" width="180"/>
+<img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ffe72f5-f52b-45e4-b6a4-10d10a0f61cd/dbqhrey-670bf4fb-2f02-4688-bff3-094714b20d63.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85ZmZlNzJmNS1mNTJiLTQ1ZTQtYjZhNC0xMGQxMGEwZjYxY2QvZGJxaHJleS02NzBiZjRmYi0yZjAyLTQ2ODgtYmZmMy0wOTQ3MTRiMjBkNjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2G-arG8XZGXPGK8sqVD1XOtR5lzvRayyWzPLYsFHJZE" width="176"/>
 
-<div align="">
+<div align="left">
 
 ### 💾 Database & Backend
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
