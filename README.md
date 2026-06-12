@@ -128,12 +128,12 @@ SELECT * FROM developer WHERE name = 'Amit Kumar Gupta';
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amit-gupta-kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-gupta-kumar&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-gupta-kumar&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
 
