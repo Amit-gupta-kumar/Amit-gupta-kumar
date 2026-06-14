@@ -9,7 +9,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-gupta-3123aa172)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit-gupta-kumar)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkrgupta1812@gmail.com)
 [![Location](https://img.shields.io/badge/Kathmandu%2C_Nepal-FF5733?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -83,7 +82,7 @@ SELECT * FROM developer WHERE name = 'Amit Kumar Gupta';
 - Designed curriculum, assignments, and practical projects
 
 ### ⚙️ Technology Trainee — Palle Technologies
-`4 Months`
+`6 Months`
 - Trained in Java, OOP, SQL, and Web Technologies
 - Solved complex problems hands-on during intensive training
 
@@ -107,11 +106,12 @@ SELECT * FROM developer WHERE name = 'Amit Kumar Gupta';
 ### 🤖 Self-Balancing Robot
 > A two-wheeled robot controlled via mobile phone, programmed in **Embedded C++** for Arduino Nano Every.
 
-### 💡 Electricity Billing System
-> An automated billing system using **Java & MySQL** — handles bill generation, customer management, and payments.
 
 ### 💬 Online Chat Application
 > A web-based chat platform using **HTML, CSS & JavaScript** with both group and private messaging features.
+
+### 🕒 World Clock System
+> Multi-timezone world clock web app.
 
 ---
 
